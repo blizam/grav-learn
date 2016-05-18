@@ -16,7 +16,7 @@ We **highly recommend** you [follow us on Twitter](https://twitter.com/getgrav) 
 
 ## Grav Blog
 
-You can join in a discussion on any of the topics we post about on the [Grav Development Blog](http://getgrav.org/blog), via the comments.  We will post all major news and information to our blog, as well as useful posts about development in general. We also plan to share great tutorials and hints about how get the most out of Grav.
+You can join in a discussion on any of the topics we post about on the [Grav Development Blog](http://getgrav.org/blog), via the comments.  We will post all major news and information to our blog, as well as useful posts about development in general. We also plan to share great tutorials and hints about how to get the most out of Grav.
 
 ## GitHub Issues
 
