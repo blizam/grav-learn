@@ -60,7 +60,7 @@ You can also [install the plugin manually](../faq#manual-installation-of-admin) 
 
 ### Creating a User
 
-With the latest version of the Grav admin, you will be prompted to create an admin user account when you point your browser to your site.  You must complete this step to ensure straight away to ensure a valid admin user is under your control.
+With the latest version of the Grav admin, you will be prompted to create an admin user account when you point your browser to your site.  You must complete this step straight away to ensure a valid admin user is under your control.
 
 ![](new-user.png)
 
